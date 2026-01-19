@@ -1,41 +1,32 @@
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
-</div>
+# 👋 Olá, me chamo Andrey Alexander
 
-# Andrey Alexander
+## 💼 Perfil Profissional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+- 💻 Estudante de Programação - Ciência da Computação(Uniube)
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando Ciência da Computação / Uniube.
 
-## 👋 Olá!
+## 🚀 Habilidades
 
-Desenvolvedor apaixonado por arquitetura limpa e código eficiente. Atualmente focado na construção de APIs robustas com Spring Boot, Java, aplicando padrões como DTO para garantir a segurança e o desacoplamento de dados. Acredito que a tecnologia deve ser inovadora, mas, acima de tudo, bem estruturada e escalável. Sou um eterno estudante da tecnologia, sempre pronto para a próxima refatoração em busca da excelência ;D
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-## 🚀 Habilidades Técnicas
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,nodejs,docker,spring,postgres)](https://skillicons.dev)
 
-- Linguagens de Programação: 
+## 🧰 Frameworks: 
+[![My Skills](skillicons.dev/icons?i=react,django,spring,angular,)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,angular)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,idea,postman)](https://skillicons.dev)<br><br>
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
-- Dados: 
+## 📫 Contato
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
-
-## 🏆 Projetos Destacados
-
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
-
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
