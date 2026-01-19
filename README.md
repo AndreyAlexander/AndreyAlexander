@@ -23,10 +23,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+![Gmail Badge]([https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail}](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white))
+[![Linkedin: AndreyAlexander]([https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/andrey-alexander-paz-roman-039659232/))
 
-![AndreyAlexander GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+### 🏆 Projeto em Destaque
+- **[Cadastro de Usuários](https://github.com/AndreyAlexander/cadastrousuario):** API REST robusta desenvolvida com **Spring Boot**. Implementei padrões **DTO** para proteção de dados sensíveis, separação de camadas (Service/Controller) e persistência de dados com **JPA/H2**.
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
