@@ -23,7 +23,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=navy)
 [![Linkedin: AndreyAlexander](https://www.linkedin.com/in/andrey-alexander-paz-roman-039659232/))
 
 ### 🏆 Projeto em Destaque
