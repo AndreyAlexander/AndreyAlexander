@@ -14,12 +14,12 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django,spring,angular,docker,nodejs)](https://skillicons.dev)
+[![My Skills](skillicons.dev/icons?i=react,django,spring,angular,nodejs)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,idea,postman)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,idea,postman,docker)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
