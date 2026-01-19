@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação - Ciência da Computação(Uniube)
+- 💻 Estudante de Programação 
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Ciência da Computação / Uniube.
 
