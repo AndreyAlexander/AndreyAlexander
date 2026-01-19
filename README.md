@@ -23,8 +23,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge]([https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail}](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white))
-[![Linkedin: AndreyAlexander]([https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/andrey-alexander-paz-roman-039659232/))
+![Gmail](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white)
+[![Linkedin: AndreyAlexander](https://www.linkedin.com/in/andrey-alexander-paz-roman-039659232/))
 
 ### 🏆 Projeto em Destaque
 - **[Cadastro de Usuários](https://github.com/AndreyAlexander/cadastrousuario):** API REST robusta desenvolvida com **Spring Boot**. Implementei padrões **DTO** para proteção de dados sensíveis, separação de camadas (Service/Controller) e persistência de dados com **JPA/H2**.
