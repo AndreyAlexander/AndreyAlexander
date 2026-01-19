@@ -27,6 +27,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
+![AndreyAlexander GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
