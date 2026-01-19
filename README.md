@@ -24,7 +24,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=navy)
-[![Linkedin: AndreyAlexander](https://www.linkedin.com/in/andrey-alexander-paz-roman-039659232/))
 
 ### 🏆 Projeto em Destaque
 - **[Cadastro de Usuários](https://github.com/AndreyAlexander/cadastrousuario):** API REST robusta desenvolvida com **Spring Boot**. Implementei padrões **DTO** para proteção de dados sensíveis, separação de camadas (Service/Controller) e persistência de dados com **JPA/H2**.
