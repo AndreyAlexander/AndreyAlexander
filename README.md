@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Andrey Alexander
+# 👋 me chamo Andrey Alexander
 
 ## 💼 Perfil Profissional
 
