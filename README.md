@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação 
+- 💻 Desenvolvedor back-end em formação com foco em Java e SpringBoot 
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Ciência da Computação / Uniube.
 
@@ -28,4 +28,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ### 🏆 Projeto em Destaque
 - **[Cadastro de Usuários](https://github.com/AndreyAlexander/cadastrousuario):** API REST robusta desenvolvida com **Spring Boot**. Implementei padrões **DTO** para proteção de dados sensíveis, separação de camadas (Service/Controller) e persistência de dados com **JPA/H2**.
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação! 😊
+## 💡 Objetivo
+Atualmente focado em evoluir como desenvolvedor **Back-End Java**.
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação!
