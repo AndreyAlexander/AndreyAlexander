@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor back-end em formação com foco em Java e SpringBoot 
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Ciência da Computação / Uniube.
+- 🎓 Cursando Engenharia de Software - Uniube
 
 ## 🚀 Habilidades
 
