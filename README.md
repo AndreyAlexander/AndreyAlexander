@@ -22,7 +22,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail](https://img.shields.io/badge/-andreyalexanderpaz@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:andreyalexanderpaz@outlook.com)
+📧 [andreyalexanderpaz@outlook.com](mailto:andreyalexanderpaz@outlook.com)
 
 ### 🏆 Projeto em Destaque
 - **[SlynkTalent - Sistema de recrutamento e gestão de candidatos](https://github.com/AndreyAlexander/SlynkTalent):** API REST robusta desenvolvida com **Spring Boot**. 
