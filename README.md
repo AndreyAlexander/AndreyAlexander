@@ -1,33 +1,71 @@
-# 👋 Prazer, me chamo Andrey Alexander
+# 👋 Olá, eu sou Andrey Alexander
 
-## 💼 Perfil Profissional
+## 💼 Sobre mim
 
-- 💻 Desenvolvedor back-end em formação com foco em Java e SpringBoot 
-- 🎓 Cursando Engenharia de Software - Uniube
+Sou **Desenvolvedor Back-End Java em formação**, com foco no desenvolvimento de aplicações utilizando **Java, Spring Boot e bancos de dados relacionais**.
 
-## 🚀 Habilidades
+🎓 Atualmente curso **Engenharia de Software na Universidade de Uberaba (UNIUBE)**.
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos, aplicando conceitos de **desenvolvimento Back-End, APIs REST, bancos de dados, arquitetura em camadas e boas práticas de desenvolvimento de software**.
 
-## 👨‍💻 Linguagens: 
+---
+
+## 👨‍💻 Tecnologias e conhecimentos
+
+### Linguagens
+
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=flask,spring)](https://skillicons.dev)
+### Frameworks
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,idea,postman,docker)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=spring,flask)](https://skillicons.dev)
+
+### Bancos de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
+
+### Ferramentas e ambientes
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,idea,eclipse,visualstudio,postman,docker)](https://skillicons.dev)
+
+---
+
+## 🏆 Projeto em Destaque
+
+### [SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)
+
+Sistema voltado para **recrutamento e gerenciamento de candidatos**, desenvolvido com **Java e Spring Boot**.
+
+O projeto tem como objetivo aplicar conceitos utilizados no desenvolvimento de aplicações Back-End, incluindo:
+
+* Desenvolvimento com **Java + Spring Boot**
+* Construção de **APIs REST**
+* Persistência de dados com **Spring Data JPA / Hibernate**
+* Integração com banco de dados **MySQL**
+* Arquitetura em camadas
+* CRUD de vagas
+* Cadastro e gerenciamento de candidatos
+* Relacionamento entre vagas e candidatos
+* Validação de dados e tratamento de regras de negócio
+
+🔗 **Repositório:** [github.com/AndreyAlexander/SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é continuar evoluindo como **Desenvolvedor Back-End Java**, aprofundando meus conhecimentos em **Spring Boot, APIs REST, bancos de dados, arquitetura de software, testes e boas práticas de desenvolvimento**.
+
+Busco oportunidades que me permitam aplicar meus conhecimentos, aprender com outros profissionais e contribuir para o desenvolvimento de soluções reais.
+
+---
 
 ## 📫 Contato
 
-📧 [andreyalexanderpaz@outlook.com](mailto:andreyalexanderpaz@outlook.com)
+📧 **E-mail:** [andreyalexanderpaz@outlook.com](mailto:andreyalexanderpaz@outlook.com)
 
-### 🏆 Projeto em Destaque
-- **[SlynkTalent - Sistema de recrutamento e gestão de candidatos](https://github.com/AndreyAlexander/SlynkTalent):** API REST robusta desenvolvida com **Spring Boot**. 
+💻 **GitHub:** [github.com/AndreyAlexander](https://github.com/AndreyAlexander)
 
-## 💡 Objetivo
-Atualmente focado em evoluir como desenvolvedor **Back-End Java**.
+---
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação!
+### 🚀 Sempre aprendendo, desenvolvendo e buscando evoluir um pouco mais a cada projeto.
