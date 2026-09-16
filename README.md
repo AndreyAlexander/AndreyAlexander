@@ -173,20 +173,16 @@ O projeto foi criado com o objetivo de aplicar na prática conceitos importantes
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AndreyAlexander&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreyAlexander&theme=tokyonight"
   />
 
-<img 
- align="left" 
- alt="Linguagens mais utilizadas" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAlexander&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
+  <img 
+    alt="Linguagens mais utilizadas"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreyAlexander&theme=tokyonight"
+  />
 </p>
