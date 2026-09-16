@@ -1,71 +1,192 @@
-# 👋 Olá, eu sou Andrey Alexander
+# 👨🏻‍💻 Andrey Alexander
 
-## 💼 Sobre mim
+**`Desenvolvedor Back-End Java`**
 
-Sou **Desenvolvedor Back-End Java em formação**, com foco no desenvolvimento de aplicações utilizando **Java, Spring Boot e bancos de dados relacionais**.
+Me chamo Andrey Alexander e atualmente curso **Engenharia de Software na Universidade de Uberaba (UNIUBE)**. Estou me desenvolvendo profissionalmente na área de **Back-End**, com foco em **Java e Spring Boot**.
 
-🎓 Atualmente curso **Engenharia de Software na Universidade de Uberaba (UNIUBE)**.
+Tenho buscado aprimorar meus conhecimentos por meio de estudos e projetos práticos, trabalhando com desenvolvimento de **APIs REST**, bancos de dados, persistência de dados, arquitetura em camadas e boas práticas de desenvolvimento de software.
 
-Busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos, aplicando conceitos de **desenvolvimento Back-End, APIs REST, bancos de dados, arquitetura em camadas e boas práticas de desenvolvimento de software**.
+Atualmente, desenvolvo o **[SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)**, um sistema de recrutamento e gerenciamento de candidatos criado com Java e Spring Boot.
+
+<p align="left">
+    <a href="https://github.com/AndreyAlexander?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/AndreyAlexander?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/AndreyAlexander?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/AndreyAlexander?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="mailto:andreyalexanderpaz@outlook.com">
+        <img 
+            alt="E-mail" 
+            title="Entre em contato por e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/-E--mail-EA4335?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 👨‍💻 Tecnologias e conhecimentos
+### 🤖 Linguagens e Tecnologias
 
-### Linguagens
+<img 
+ align="left" 
+ alt="Java"
+ title="Java" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+<img 
+ align="left" 
+ alt="Spring Boot"
+ title="Spring Boot" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
 
-### Frameworks
+<img 
+ align="left" 
+ alt="Python"
+ title="Python" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,flask)](https://skillicons.dev)
+<img 
+ align="left" 
+ alt="Flask"
+ title="Flask" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
 
-### Bancos de Dados
+<img 
+ align="left" 
+ alt="MySQL"
+ title="MySQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
+<img 
+ align="left" 
+ alt="PostgreSQL"
+ title="PostgreSQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 
-### Ferramentas e ambientes
+<img 
+ align="left" 
+ alt="MongoDB"
+ title="MongoDB" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,idea,eclipse,visualstudio,postman,docker)](https://skillicons.dev)
+<img 
+ align="left" 
+ alt="Git"
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
----
+<img 
+ align="left" 
+ alt="GitHub"
+ title="GitHub" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
-## 🏆 Projeto em Destaque
+<img 
+ align="left" 
+ alt="GitLab"
+ title="GitLab" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+/>
 
-### [SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)
+<img 
+ align="left" 
+ alt="Docker"
+ title="Docker" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
 
-Sistema voltado para **recrutamento e gerenciamento de candidatos**, desenvolvido com **Java e Spring Boot**.
+<img 
+ align="left" 
+ alt="Postman"
+ title="Postman" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
 
-O projeto tem como objetivo aplicar conceitos utilizados no desenvolvimento de aplicações Back-End, incluindo:
+<br/>
+<br/>
 
-* Desenvolvimento com **Java + Spring Boot**
-* Construção de **APIs REST**
-* Persistência de dados com **Spring Data JPA / Hibernate**
-* Integração com banco de dados **MySQL**
-* Arquitetura em camadas
+### 🚀 Projeto em Destaque
+
+#### [SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)
+
+Sistema de **recrutamento e gerenciamento de candidatos**, desenvolvido com **Java e Spring Boot**.
+
+O projeto foi criado com o objetivo de aplicar na prática conceitos importantes do desenvolvimento Back-End, como:
+
+* Java + Spring Boot
+* Spring Data JPA / Hibernate
+* MySQL
+* APIs REST
+* Arquitetura MVC
+* Organização em camadas
 * CRUD de vagas
 * Cadastro e gerenciamento de candidatos
 * Relacionamento entre vagas e candidatos
-* Validação de dados e tratamento de regras de negócio
+* Validação e persistência de dados
+* Tratamento de regras de negócio
 
-🔗 **Repositório:** [github.com/AndreyAlexander/SlynkTalent](https://github.com/AndreyAlexander/SlynkTalent)
-
----
-
-## 🎯 Objetivo Profissional
-
-Meu objetivo é continuar evoluindo como **Desenvolvedor Back-End Java**, aprofundando meus conhecimentos em **Spring Boot, APIs REST, bancos de dados, arquitetura de software, testes e boas práticas de desenvolvimento**.
-
-Busco oportunidades que me permitam aplicar meus conhecimentos, aprender com outros profissionais e contribuir para o desenvolvimento de soluções reais.
+🔗 **[Acessar o repositório](https://github.com/AndreyAlexander/SlynkTalent)**
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas
 
-📧 **E-mail:** [andreyalexanderpaz@outlook.com](mailto:andreyalexanderpaz@outlook.com)
+<p>
+  <img 
+    align="left" 
+    alt="Estatísticas do GitHub" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AndreyAlexander&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-💻 **GitHub:** [github.com/AndreyAlexander](https://github.com/AndreyAlexander)
+<img 
+ align="left" 
+ alt="Linguagens mais utilizadas" 
+ height="200" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAlexander&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
----
-
-### 🚀 Sempre aprendendo, desenvolvendo e buscando evoluir um pouco mais a cada projeto.
+</p>
