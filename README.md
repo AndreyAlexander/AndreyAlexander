@@ -173,16 +173,16 @@ O projeto foi criado com o objetivo de aplicar na prática conceitos importantes
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
-    alt="Estatísticas do GitHub"
     height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreyAlexander&theme=tokyonight"
+    alt="Estatísticas do GitHub"
   />
 
   <img 
-    alt="Linguagens mais utilizadas"
     height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreyAlexander&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
   />
 </p>
