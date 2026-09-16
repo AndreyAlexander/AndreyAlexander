@@ -175,12 +175,14 @@ O projeto foi criado com o objetivo de aplicar na prática conceitos importantes
 
 <p align="left">
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AndreyAlexander&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreyAlexander&theme=tokyonight"
   />
 
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAlexander&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreyAlexander&theme=tokyonight"
   />
 </p>
