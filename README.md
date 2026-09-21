@@ -178,8 +178,8 @@ O projeto foi criado com o objetivo de aplicar na prática conceitos importantes
     alt="Estatísticas do GitHub"
     height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreyAlexander&theme=tokyonight"
-  />
-
+</p>
+    
   <img 
     alt="Linguagens mais utilizadas"
     height="180"
